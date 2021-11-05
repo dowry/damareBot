@@ -1,0 +1,24 @@
+{
+  "name": "dbottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node": "^16.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dowry/damareBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dowry/damareBot/issues"
+  },
+  "homepage": "https://github.com/dowry/damareBot#readme"
+}
