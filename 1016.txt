@@ -1,0 +1,51 @@
+Bosttanif_LEVEL_G029@DESKTOP-V7K84V4 MINGW64 /c/projects/damare
+$ node index.js
+
+{"name":"damare","hostname":"DESKTOP-V7K84V4","pid":29112,"level":30,"msg":"Damare reading bot v1.2.0","time":"2021-10-15T18:
+12:17.802Z","v":0}
+
+{"name":"damare","hostname":"DESKTOP-V7K84V4","pid":29112,"level":30,"msg":"Checking softalk...","time":"2021-10-15T18:12:17.
+803Z","v":0}
+{"name":"damare","hostname":"DESKTOP-V7K84V4","pid":29112,"level":30,"msg":"Softalk found.","time":"2021-10-15T18:12:17.804Z"
+,"v":0}
+
+{"name":"damare","hostname":"DESKTOP-V7K84V4","pid":29112,"level":60,"msg":"Config file not found. Please make config file. M
+ore information: https://github.com/Chipsnet/warbot-js.","time":"2021-10-15T18:12:17.807Z","v":0}
+
+{"name":"damare","hostname":"DESKTOP-V7K84V4","pid":29112,"level":50,"err":{"message":"can not read a block mapping entry; a
+multiline key may not be an implicit key (3:7)\n\n 1 | token: ODk2NjgyMDgzNTU1MTAyNzIw.YWKqRA ...\n 2 | useguild:893094838440
+976404\n 3 | prefix: \";\"\n-----------^","name":"YAMLException","stack":"YAMLException: can not read a block mapping entry;
+a multiline key may not be an implicit key (3:7)\n\n 1 | token: ODk2NjgyMDgzNTU1MTAyNzIw.YWKqRA ...\n 2 | useguild:8930948384
+40976404\n 3 | prefix: \";\"\n-----------^\n    at generateError (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js
+:183:10)\n    at throwError (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:187:9)\n    at readBlockMapping (C:\
+\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:1145:9)\n    at composeNode (C:\\projects\\damare\\node_modules\\js-
+yaml\\lib\\loader.js:1441:12)\n    at readDocument (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:1625:3)\n
+at loadDocuments (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:1688:5)\n    at Object.load (C:\\projects\\dama
+re\\node_modules\\js-yaml\\lib\\loader.js:1714:19)\n    at Object.<anonymous> (C:\\projects\\damare\\index.js:30:19)\n    at
+Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.j
+s:1114:10)"},"msg":"can not read a block mapping entry; a multiline key may not be an implicit key (3:7)\n\n 1 | token: ODk2N
+jgyMDgzNTU1MTAyNzIw.YWKqRA ...\n 2 | useguild:893094838440976404\n 3 | prefix: \";\"\n-----------^","time":"2021-10-15T18:12:
+17.808Z","v":0}
+
+Bosttanif_LEVEL_G029@DESKTOP-V7K84V4 MINGW64 /c/projects/damare
+$
+
+{"name":"damare","hostname":"DESKTOP-V7K84V4","pid":29112,"level":60,"msg":"Config file not found. Please make config file. M
+ore information: https://github.com/Chipsnet/warbot-js.","time":"2021-10-15T18:12:17.807Z","v":0}
+{"name":"damare","hostname":"DESKTOP-V7K84V4","pid":29112,"level":50,"err":{"message":"can not read a block mapping entry; a
+multiline key may not be an implicit key (3:7)\n\n 1 | token: ODk2NjgyMDgzNTU1MTAyNzIw.YWKqRA ...\n 2 | useguild:893094838440
+976404\n 3 | prefix: \";\"\n-----------^","name":"YAMLException","stack":"YAMLException: can not read a block mapping entry;
+a multiline key may not be an implicit key (3:7)\n\n 1 | token: ODk2NjgyMDgzNTU1MTAyNzIw.YWKqRA ...\n 2 | useguild:8930948384
+40976404\n 3 | prefix: \";\"\n-----------^\n    at generateError (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js
+:183:10)\n    at throwError (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:187:9)\n    at readBlockMapping (C:\
+\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:1145:9)\n    at composeNode (C:\\projects\\damare\\node_modules\\js-
+yaml\\lib\\loader.js:1441:12)\n    at readDocument (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:1625:3)\n
+at loadDocuments (C:\\projects\\damare\\node_modules\\js-yaml\\lib\\loader.js:1688:5)\n    at Object.load (C:\\projects\\dama
+re\\node_modules\\js-yaml\\lib\\loader.js:1714:19)\n    at Object.<anonymous> (C:\\projects\\damare\\index.js:30:19)\n    at
+Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.j
+s:1114:10)"},"msg":"can not read a block mapping entry; a multiline key may not be an implicit key (3:7)\n\n 1 | token: ODk2N
+jgyMDgzNTU1MTAyNzIw.YWKqRA ...\n 2 | useguild:893094838440976404\n 3 | prefix: \";\"\n-----------^","time":"2021-10-15T18:12:
+17.808Z","v":0}
+
+Bosttanif_LEVEL_G029@DESKTOP-V7K84V4 MINGW64 /c/projects/damare
+$
